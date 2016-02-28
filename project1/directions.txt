@@ -1,0 +1,13 @@
+1) Implement a dynamically sized array in a class called DynamicArray.
+
+2) A production version of this class would be optimized and do a lot of error
+checking. Don't worry about these things in your implementation, just get it
+working. I'll try to teach you about error checking in a later project.
+
+3) Create a test suite that fully tests the public interface.
+  - Either as text files or as a C++ program
+  
+4) Write a Makefile that compiles the project.
+
+5) You may add any private variables and methods you want, but don't modify
+the public interface.
